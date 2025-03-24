@@ -1,6 +1,9 @@
 
 <h2 align="left">Hi 👋! My name is Jarne Tekin and I'm a Programmer, from Belgium</h2>
 
+<p>I am currently studying programming and developing both front-end and back-end applications. With experience in JavaScript, EJS, PHP, and working with various data formats such as JSON, I can create dynamic and functional web applications. Additionally, I work with CraftCMS to build flexible and scalable website templates.</p>
+
+
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
